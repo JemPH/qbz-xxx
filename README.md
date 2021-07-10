@@ -26,5 +26,6 @@ python qbzremake.py
 1. Install Python.
 2. Add Python to System Path
 3. Open Terminal then type `pip install --upgrade pip`
-4. Download the zip
-5. goto directory and execute the script. `python qbzremake.py`
+4. Download the zipped file then extract
+5. goto directory and execute the script. `pip install -r requirements.txt`
+6. Then execute the script `python qbzremake.py`
