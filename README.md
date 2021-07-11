@@ -20,7 +20,9 @@ cd qbz-xxx
 
 pip install -r requirements.txt
 
-python qbzremake.py
+python qbzremake.py -r // Add Account Credentials
+
+python qbzremake.py dl <URL> -q 27
 ```
 #### Windows
 1. Install Python.
