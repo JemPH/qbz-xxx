@@ -8,17 +8,17 @@ Just Qobuz thing, nothing much.
 ## Installation
 #### Termux
 
-`pkg update && pkg upgrade`
-`pkg install git python`
-`pip install --upgrade pip`
-`git clone https://github.com/JemPH/qbz-xxx.git`
-`cd qbz-xxx`
-`pip install -r requirements.txt`
+`pkg update && pkg upgrade`<br>
+`pkg install git python`<br>
+`pip install --upgrade pip`<br>
+`git clone https://github.com/JemPH/qbz-xxx.git`<br>
+`cd qbz-xxx`<br>
+`pip install -r requirements.txt`<br>
 
-Add Credentials `python qbzremake.py -r`
+Add Credentials `python qbzremake.py -r`<br>
 
-Download Track/Album/Playlist Link: `python qbzremake.py dl <URL> -q 27`
-Download using Search: `python qbzremake.py lucky` or `python qbzremake.py fun`
+Download Track/Album/Playlist Link: `python qbzremake.py dl <URL> -q 27`<br>
+Download using Search: `python qbzremake.py lucky` or `python qbzremake.py fun`<br>
 #### Windows
 1. Install Python.
 2. Add Python to System Path
