@@ -16,13 +16,13 @@ Just Qobuz thing, nothing much.
 `pip install -r requirements.txt`<br>
 
 
-<u>For UserID and Token Option</u>
+<u>For UserID and Token Option</u><br>
 Add Credentials `python qbzremake.py -r`<br>
 
 Download Track/Album/Playlist Link: `python qbzremake.py dl <URL> -q 27`<br>
 Download using Search: `python qbzremake.py lucky` or `python qbzremake.py fun`<br>
 
-<u>For Hashed Password Option</u>
+<u>For Hashed Password Option</u><br>
 Add Credentials `python qbzhash.py -r`<br>
 
 Download Track/Album/Playlist Link: `python qbzhash.py dl <URL> -q 27`<br>
