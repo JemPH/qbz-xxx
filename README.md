@@ -15,10 +15,19 @@ Just Qobuz thing, nothing much.
 `cd qbz-xxx`<br>
 `pip install -r requirements.txt`<br>
 
+
+<u>For UserID and Token Option</u>
 Add Credentials `python qbzremake.py -r`<br>
 
 Download Track/Album/Playlist Link: `python qbzremake.py dl <URL> -q 27`<br>
 Download using Search: `python qbzremake.py lucky` or `python qbzremake.py fun`<br>
+
+<u>For Hashed Password Option</u>
+Add Credentials `python qbzhash.py -r`<br>
+
+Download Track/Album/Playlist Link: `python qbzhash.py dl <URL> -q 27`<br>
+Download using Search: `python qbzhash.py lucky` or `python qbzhash.py fun`<br>
+
 #### Windows
 1. Install Python.
 2. Add Python to System Path
