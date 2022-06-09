@@ -1,4 +1,3 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O3D65S3)
 # qbz-xxx
 Just Qobuz thing, nothing much.
 
@@ -38,3 +37,5 @@ Download using Search: `python qbzhash.py lucky` or `python qbzhash.py fun`<br>
 6. Then execute the script `python qbzremake.py -r` to add credentials
 7. * Download Track/Album/Playlist Link: `python qbzremake.py dl <URL> -q 27`
    * Download using Search: `python qbzremake.py lucky` or `python qbzremake.py fun`
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O3D65S3)
