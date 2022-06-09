@@ -1,3 +1,4 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O3D65S3)
 # qbz-xxx
 Just Qobuz thing, nothing much.
 
